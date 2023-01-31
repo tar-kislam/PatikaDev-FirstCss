@@ -1,0 +1,37 @@
+body{
+    list-style-position: inside;
+    text-align: center;
+}
+
+
+.nav-menu{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+}
+.container{
+    position: relative;
+
+}
+.container p {
+    display: inline-block;
+}
+
+.nav-menu li{
+    text-align: center;
+    display: inline;
+    margin-right: 3px;
+}
+
+.mainHeader{
+    color: red;
+    font-weight: bold;
+}
+
+.subHeader{
+    color: blueviolet;
+}
+
+.products li{
+    padding-bottom: 10px;
+}
